@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">About me</p>
+<p align="left">
+  Yello! My name is Pil August Ekanger, a 26 year old queer and non binary website developer focusing on design and graphics. I’m proficient in HTML, CSS and Figma, and a beginner in JavaScript. I'm based in Norway, and fluent in both Norwegian and English. Hit me up for a chat, or even just a quick game of League of Legends ;)
+</p>
 
 ###
 
